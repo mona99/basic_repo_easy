@@ -1,16 +1,10 @@
-=================================
-Structure of one single code file
-=================================
+===================================
+This program is a string formatting 
+===================================
 
-This sturctur will contain many file
-------------------------------------
+Using formatters
+---------------- 
 
-
-First we're gonna add a file:
- 
-- README.rst 
-- requirement.txt
-- requirement_dev.txt
-- string_formating
-- __init__.py
+Formatters work by putting in one or more replacement fields or placeholders 
+defined by a pair of curly braces{} into a string called the str.format() method
 
